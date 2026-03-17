@@ -1,2 +1,3 @@
-# estacion_Metereoligica
-Proyecto integrador de las materias de la especialidad de 5to año 2026
+# Estación Meteorológica ProA 
+## Integrantes: Pino Malena Guillermina
+* Sensor de temperatura, humedad y presión. 
