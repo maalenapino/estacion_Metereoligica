@@ -9,10 +9,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 | Apellido y Nombre | E-mail | GitHub |
 | :---: | :---: | :---: |
 | PINO, Malena Guillermina | mgpino@escuelasproa.edu.ar | [ver perfil](https://github.com/maalenapino/estacion_Metereoligica.git) |
-<<<<<<< HEAD
 ------------------------------------------
-=======
->>>>>>> f76a7ced411c630c6ff6dccd0d3ec65f64b5488a
 
 ------------------------------------------
 ## Estructura del Proyecto
@@ -42,5 +39,3 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 * [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
 
-=======
->>>>>>> f76a7ced411c630c6ff6dccd0d3ec65f64b5488a
